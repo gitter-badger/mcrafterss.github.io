@@ -1,3 +1,3 @@
 # mcrafterss github website 
 
-http://mcrafterss.githu.io
+http://mcrafterss.github.io
